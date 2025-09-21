@@ -2,6 +2,11 @@
 
 Meesho Trust Shield is a frontend application designed to enhance trust and transparency on the Meesho platform. It provides features for both buyers and sellers, including trust badges for products and a dashboard for sellers to monitor their performance and trust metrics.
 
+<img width="1897" height="969" alt="image" src="https://github.com/user-attachments/assets/f34cec4e-50f8-4d90-9c73-f139a805530c" />
+<img width="1572" height="970" alt="image" src="https://github.com/user-attachments/assets/0fc28ba3-d0e6-4f5e-86c3-f1c9a6cbaaac" />
+
+
+
 ## Features
 
 - **Product Grid:** Displays a grid of products with relevant information, allowing users to browse the catalog efficiently.
